@@ -40,10 +40,10 @@
     linear,
     left top,
     left bottom,
-    from(#83f3e4),
+    from(#0813e1),
     to(#ececec)
   );
-  background: -webkit-linear-gradient(#83f3e4, #ececec);
-  background-image: -moz-linear-gradient(top, #83f3e4, #ececec);
-  background-image: -moz-gradient(top, #83f3e4, #ececec);
+  background: -webkit-linear-gradient(#3e0cd5, #ececec);
+  background-image: -moz-linear-gradient(top, #0ee706, #ececec);
+  background-image: -moz-gradient(top, #5ff111, #ececec);
 }
