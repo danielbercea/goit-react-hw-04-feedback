@@ -36,7 +36,7 @@
 .btn:hover {
   background: #83f3e4;
   color: #000;
-  background: -webkit-gradient(
+  background: webkit-gradient(
     linear,
     left top,
     left bottom,
